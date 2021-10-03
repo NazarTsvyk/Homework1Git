@@ -1,0 +1,20 @@
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Server\bin\Debug\PrtScr_Server.exe.config
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Server\bin\Debug\PrtScr_Server.exe
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Server\bin\Debug\PrtScr_Server.pdb
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Server\obj\Debug\PrtScr_Server.csprojAssemblyReference.cache
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Server\obj\Debug\PrtScr_Server.Form1.resources
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Server\obj\Debug\PrtScr_Server.Properties.Resources.resources
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Server\obj\Debug\PrtScr_Server.csproj.GenerateResource.cache
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Server\obj\Debug\PrtScr_Server.csproj.CoreCompileInputs.cache
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Server\obj\Debug\PrtScr_Server.exe
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Server\obj\Debug\PrtScr_Server.pdb
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Server\bin\Debug\PrtScr_Server.exe.config
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Server\bin\Debug\PrtScr_Server.exe
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Server\bin\Debug\PrtScr_Server.pdb
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Server\obj\Debug\PrtScr_Server.csprojAssemblyReference.cache
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Server\obj\Debug\PrtScr_Server.Form1.resources
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Server\obj\Debug\PrtScr_Server.Properties.Resources.resources
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Server\obj\Debug\PrtScr_Server.csproj.GenerateResource.cache
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Server\obj\Debug\PrtScr_Server.csproj.CoreCompileInputs.cache
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Server\obj\Debug\PrtScr_Server.exe
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Server\obj\Debug\PrtScr_Server.pdb

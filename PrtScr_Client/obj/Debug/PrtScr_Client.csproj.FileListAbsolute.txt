@@ -1,0 +1,24 @@
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Client\bin\Debug\PrtScr_Client.exe.config
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Client\bin\Debug\PrtScr_Client.exe
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Client\bin\Debug\PrtScr_Client.pdb
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Client\obj\Debug\PrtScr_Client.csprojAssemblyReference.cache
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Client\obj\Debug\PrtScr_Client.Form1.resources
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Client\obj\Debug\PrtScr_Client.Properties.Resources.resources
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Client\obj\Debug\PrtScr_Client.csproj.GenerateResource.cache
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Client\obj\Debug\PrtScr_Client.csproj.CoreCompileInputs.cache
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Client\obj\Debug\PrtScr_Client.exe
+C:\Users\pu021\source\repos\Multicast_Sample1\PrtScr_Client\obj\Debug\PrtScr_Client.pdb
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Client\bin\Debug\PrtScr_Client.exe.config
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Client\bin\Debug\PrtScr_Client.exe
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Client\bin\Debug\PrtScr_Client.pdb
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Client\obj\Debug\PrtScr_Client.csprojAssemblyReference.cache
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Client\obj\Debug\PrtScr_Client.Form1.resources
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Client\obj\Debug\PrtScr_Client.Properties.Resources.resources
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Client\obj\Debug\PrtScr_Client.csproj.GenerateResource.cache
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Client\obj\Debug\PrtScr_Client.csproj.CoreCompileInputs.cache
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Client\obj\Debug\PrtScr_Client.exe
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Client\obj\Debug\PrtScr_Client.pdb
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Client\bin\Debug\PrtScr_Server.exe
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Client\bin\Debug\PrtScr_Server.pdb
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Client\bin\Debug\PrtScr_Server.exe.config
+D:\Мережеве програмування\Multicast_Sample1\PrtScr_Client\obj\Debug\PrtScr_Client.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\pu021\source\repos\Multicast_Sample1\Mulricast_Client\bin\Debug\Mulricast_Client.exe.config
+C:\Users\pu021\source\repos\Multicast_Sample1\Mulricast_Client\bin\Debug\Mulricast_Client.exe
+C:\Users\pu021\source\repos\Multicast_Sample1\Mulricast_Client\bin\Debug\Mulricast_Client.pdb
+C:\Users\pu021\source\repos\Multicast_Sample1\Mulricast_Client\obj\Debug\Mulricast_Client.Form1.resources
+C:\Users\pu021\source\repos\Multicast_Sample1\Mulricast_Client\obj\Debug\Mulricast_Client.Properties.Resources.resources
+C:\Users\pu021\source\repos\Multicast_Sample1\Mulricast_Client\obj\Debug\Mulricast_Client.csproj.GenerateResource.cache
+C:\Users\pu021\source\repos\Multicast_Sample1\Mulricast_Client\obj\Debug\Mulricast_Client.csproj.CoreCompileInputs.cache
+C:\Users\pu021\source\repos\Multicast_Sample1\Mulricast_Client\obj\Debug\Mulricast_Client.exe
+C:\Users\pu021\source\repos\Multicast_Sample1\Mulricast_Client\obj\Debug\Mulricast_Client.pdb
